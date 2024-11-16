@@ -78,3 +78,17 @@ header h1{
     background: darkred;
     margin: 50px;
 }
+
+.box2{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 25%;
+}
+.box3{
+    display: flex;
+    justify-content: baseline;
+    align-items: baseline;
+    width: 10%;
+    height: 250px;
+}
